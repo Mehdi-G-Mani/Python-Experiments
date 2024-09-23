@@ -14,6 +14,6 @@ My research interests include:
 - Student Engagement
 - Intelligence
 
-In order to test the inclusion of a photograph, I have included a photo of our "**Imaginarium Exoress**" team at Children's Museum, Meridian:
+In order to test the inclusion of a photograph, I have included a photo of our "**Imaginarium Express**" team at Children's Museum, Meridian:
 
 ![alt text](IMG_0852.JPG)
